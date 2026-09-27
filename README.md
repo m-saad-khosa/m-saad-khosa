@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Saad
 
-<!--
-**m-saad-khosa/m-saad-khosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MPP candidate at the University of Chicago Harris School of Public Policy,
+focused on data and policy analysis.
 
-Here are some ideas to get you started:
+I work with administrative data, run econometric models, and try to make
+policy decisions more evidence-based.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I use:** Stata · R · Python · Excel · QGIS · ArcGIS
+
+**Currently:** Analyzing government data at the DC Office of the City
+Administrator as part of the District's Fees and Fines Initiative.
+
+**Background:** BSc Economics, IBA Karachi (2024)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--saad--khosa-blue)](https://linkedin.com/in/m-saad-khosa)
