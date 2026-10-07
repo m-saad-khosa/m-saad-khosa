@@ -11,6 +11,6 @@ policy decisions more evidence-based.
 **Currently:** Analyzing government data at the DC Office of the City
 Administrator as part of the District's Fees and Fines Initiative.
 
-**Background:** BSc Economics, IBA Karachi (2024)
+**Background:** BS Economics, IBA Karachi (2024)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m--saad--khosa-blue)](https://linkedin.com/in/m-saad-khosa)
